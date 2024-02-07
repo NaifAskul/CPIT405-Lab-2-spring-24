@@ -1,0 +1,19 @@
+table{
+
+    margin-bottom: 1%;
+
+}
+
+th,td{
+
+border-bottom: 1px solid #ddd;
+text-align: center;
+padding: 1%;
+
+}
+
+#Login{
+
+    margin-bottom: 0.5%;
+
+}
